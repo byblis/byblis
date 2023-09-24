@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=60&section=footer&width=200" width="900">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0FFF&vCenter=true&width=435&lines=Hello%2C+I'm+Barbara!)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
