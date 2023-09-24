@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=60&section=footer&width=200" width="900">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0FFF&vCenter=true&width=435&lines=Hello%2C+I'm+Barbara!)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -10,7 +11,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=60&section=footer&width=200" width="900">
 <img src="https://i.pinimg.com/originals/3f/9a/76/3f9a76e8f304e41d93a8bf6daefc5163.gif" width="900">
 <!-- <img src="https://i.pinimg.com/originals/c8/7f/fb/c87ffbfdaade272b84e5a5f515c93436.gif" width="1000"> -->
 
