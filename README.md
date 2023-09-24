@@ -9,13 +9,12 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3F00FF&height=60&section=footer&width=200" width="900">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5D3FD3&height=60&section=footer&width=200" width="900">
 <img src="https://i.pinimg.com/originals/3f/9a/76/3f9a76e8f304e41d93a8bf6daefc5163.gif" width="900">
 <!-- <img src="https://i.pinimg.com/originals/c8/7f/fb/c87ffbfdaade272b84e5a5f515c93436.gif" width="1000"> -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&bg_color=000000&title_color=f0f&text_color=f0f) 
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=basmath&theme=dark&border_radius=1&date_format=%5BY%20%5DM%20j&background=000000&ring=FF00FF&fire=00EBE5&stroke=FF00FF&currStreakLabel=00EBE5&currStreakNum=00EBE5&border=FF00FF&sideLabels=FF00FF&dates=EBEBEB&sideNums=FF00FF)](https://git.io/streak-stats)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=basmath&theme=dark&border_radius=1&date_format=%5BY%20%5DM%20j&background=000000&ring=FF00FF&fire=00EBE5&stroke=FF00FF&currStreakLabel=00EBE5&currStreakNum=00EBE5&border=FF00FF&sideLabels=FF00FF&dates=5D3FD3&sideNums=FF00FF)](https://git.io/streak-stats)
 
-https://github-readme-streak-stats.herokuapp.com?user=basmath&theme=dark&border_radius=1&date_format=%5BY%20%5DM%20j&background=000000&ring=FF00FF&fire=00EBE5&stroke=FF00FF&currStreakLabel=00EBE5&currStreakNum=00EBE5&border=FF00FF&sideLabels=FF00FF&dates=EBEBEB&sideNums=FF00FF
-
+[![](https://github-readme-streak-stats.herokuapp.com?user=basmath&theme=dark&border_radius=1&date_format=%5BY%20%5DM%20j&background=000000&ring=FF00FF&fire=00EBE5&stroke=FF00FF&currStreakLabel=00EBE5&currStreakNum=00EBE5&border=FF00FF&sideLabels=FF00FF&dates=5D3FD3&sideNums=FF00FF)](https://git.io/streak-stats)
