@@ -9,7 +9,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=60&section=footer&width=200" width="900">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36454F&height=60&section=footer&width=200" width="900">
 <!-- <img src="https://i.pinimg.com/originals/3f/9a/76/3f9a76e8f304e41d93a8bf6daefc5163.gif" width="1000"> -->
 <img src="https://i.pinimg.com/originals/c8/7f/fb/c87ffbfdaade272b84e5a5f515c93436.gif" width="1000"> 
 
