@@ -13,7 +13,7 @@
 <img src="https://i.pinimg.com/originals/3f/9a/76/3f9a76e8f304e41d93a8bf6daefc5163.gif" width="900">
 <!-- <img src="https://i.pinimg.com/originals/c8/7f/fb/c87ffbfdaade272b84e5a5f515c93436.gif" width="1000"> -->
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=byblis&theme=dark&border_radius=1&date_format=%5BY%20%5DM%20j&background=000000&ring=0096FF&fire=0096FF&stroke=FF00FF&currStreakLabel=00EBE5&currStreakNum=00EBE5&border=FF00FF&sideLabels=FF00FF&dates=5D3FD3&sideNums=FF00FF)](https://git.io/streak-stats)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=byblis&theme=dark&border_radius=1&date_format=%5BY%20%5DM%20j&background=000000&ring=0096FF&fire=ff00ff&stroke=FF00FF&currStreakLabel=00EBE5&currStreakNum=0096FF&border=FF00FF&sideLabels=FF00FF&dates=fff&sideNums=FF00FF)](https://git.io/streak-stats)
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byblis&bg_color=000000&title_color=f0f&text_color=f0f) -->
 
