@@ -12,7 +12,7 @@
 <img src="output_.gif" width="800"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=55&section=header&width=300" width="800">
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byblis&bg_color=000000&title_color=f0f&text_color=f0f) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byblis&bg_color=000000&title_color=f0f&text_color=f0f)
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=byblis&theme=dark&border_radius=1&date_format=%5BY%20%5DM%20j&background=000000&ring=0096FF&fire=ff00ff&stroke=FF00FF&currStreakLabel=ff00ff&currStreakNum=ff00ff&border=FF00FF&sideLabels=FF00FF&dates=0096FF&sideNums=FF00FF)](https://git.io/streak-stats)
 
