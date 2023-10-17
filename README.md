@@ -12,9 +12,9 @@
 <img src="output_.gif" width="800"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=55&section=header&width=300" width="800">
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byblis&layout=donut-vertical&bg_color=000000&title_color=f0f&text_color=f0f&height=300)](https://github.com/byblis/github-readme-stats)
-
-<!-- --> 
+ --> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=byblis&theme=high-contrast&hide_title="True"&height=300&point=f0f)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
