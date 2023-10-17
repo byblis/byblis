@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0FFF&vCenter=true&width=435&lines=Привет%2C+I'm+Barbara!)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0FFF&vCenter=true&width=435&lines=Привет%2C+I'm+Barbara!)](https://git.io/typing-svg) -->
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -16,3 +16,6 @@
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=byblis&theme=dark&border_radius=1&date_format=%5BY%20%5DM%20j&background=000000&ring=0096FF&fire=ff00ff&stroke=FF00FF&currStreakLabel=ff00ff&currStreakNum=ff00ff&border=FF00FF&sideLabels=FF00FF&dates=0096FF&sideNums=FF00FF)](https://git.io/streak-stats)
 
+[![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=713&pause=1000&color=0096FF&background=FF30E600&center=false&vCenter=true&multiline=true&random=false&width=800&height=90&lines=%D0%9D%D0%BE%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D1%82%D0%B5%D0%BF%D0%BB%2C;%D0%B0+%D0%BD%D0%B5+%D0%B3%D0%BE%D1%80%D1%8F%D1%87+%D0%B8+%D0%BD%D0%B5+%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B5%D0%BD%2C;%D1%82%D0%BE+%D0%B8%D0%B7%D0%B2%D0%B5%D1%80%D0%B3%D0%BD%D1%83+%D1%82%D0%B5%D0%B1%D1%8F+%D0%B8%D0%B7+%D1%83%D1%81%D1%82+%D0%9C%D0%BE%D0%B8%D1%85)](https://git.io/typing-svg)
