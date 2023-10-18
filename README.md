@@ -20,7 +20,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=byblis&theme=high-contrast&hide_title="True"&height=150&line=0096FF&point=f0f)](https://github.com/ashutosh00710/github-readme-activity-graph)
  --> 
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=byblis&theme=dark&border_radius=1&date_format=%5BY%20%5DM%20j&background=000000&ring=0096FF&fire=ff00ff&stroke=FF00FF&currStreakLabel=ff00ff&currStreakNum=ff00ff&border=FF00FF&sideLabels=FF00FF&dates=0096FF&sideNums=FF00FF)](https://git.io/streak-stats)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=byblis&theme=dark&border_radius=1&date_format=%5BY%20%5DM%20j&background=000000&ring=fff&fire=fff&stroke=FF00FF&currStreakLabel=ff00ff&currStreakNum=ff00ff&border=FF00FF&sideLabels=FF00FF&dates=fff&sideNums=FF00FF)](https://git.io/streak-stats)
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
 
