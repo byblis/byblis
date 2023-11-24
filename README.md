@@ -18,8 +18,7 @@
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=byblis&theme=dark&border_radius=1&date_format=%5BY%20%5DM%20j&background=000000&ring=fff&fire=0096FF&stroke=fff&currStreakLabel=ff00ff&currStreakNum=ff00ff&border=fff&sideLabels=FF00FF&dates=fff&sideNums=FF00FF)](https://git.io/streak-stats)
 
-<!--
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=byblis&theme=high-contrast&hide_title="True"&height=150&line=0096FF&point=f0f)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=55&section=header&width=300" width="800">(https://github.com/ashutosh00710/github-readme-activity-graph)
  --> 
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
