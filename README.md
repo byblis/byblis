@@ -14,7 +14,7 @@
 <!--<img src="output_.gif" width="800">  --> 
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=55&section=header&width=300" width="800"> -->
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=byblis&theme=high-contrast&line=ff00ff&height=300%custom_title=Activity%20)](https://github.com/byblis/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=byblis&theme=high-contrast&line=ff00ff&height=300&custom_title=Activity%20)](https://github.com/byblis/github-readme-activity-graph)
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=byblis&theme=dark&border_radius=1&date_format=%5BY%20%5DM%20j&background=000000&ring=fff&fire=0096FF&stroke=fff&currStreakLabel=ff00ff&currStreakNum=ff00ff&border=fff&sideLabels=FF00FF&dates=fff&sideNums=FF00FF)](https://git.io/streak-stats)
 
