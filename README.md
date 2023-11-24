@@ -18,9 +18,8 @@
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=byblis&theme=dark&border_radius=1&date_format=%5BY%20%5DM%20j&background=000000&ring=fff&fire=0096FF&stroke=fff&currStreakLabel=ff00ff&currStreakNum=ff00ff&border=fff&sideLabels=FF00FF&dates=fff&sideNums=FF00FF)](https://git.io/streak-stats)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=55&section=header&width=300" width="800">(https://github.com/ashutosh00710/github-readme-activity-graph)
- --> 
-
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=713&pause=1000&color=f0f&background=FF30E600&center=false&vCenter=true&multiline=true&random=false&width=800&height=90&lines=%D0%9D%D0%BE%2C+%D0%BA%D0%B0%D0%BA+%D1%82%D1%8B+%D1%82%D0%B5%D0%BF%D0%BB%2C;%D0%B0+%D0%BD%D0%B5+%D0%B3%D0%BE%D1%80%D1%8F%D1%87+%D0%B8+%D0%BD%D0%B5+%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B5%D0%BD%2C;%D1%82%D0%BE+%D0%B8%D0%B7%D0%B2%D0%B5%D1%80%D0%B3%D0%BD%D1%83+%D1%82%D0%B5%D0%B1%D1%8F+%D0%B8%D0%B7+%D1%83%D1%81%D1%82+%D0%9C%D0%BE%D0%B8%D1%85)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=55&section=header&width=300" width="800">(https://github.com/ashutosh00710/github-readme-activity-graph) --> 
