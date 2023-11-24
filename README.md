@@ -14,9 +14,9 @@
 <!--<img src="output_.gif" width="800">  --> 
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=55&section=header&width=300" width="800"> -->
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=byblis&theme=dark&border_radius=1&date_format=%5BY%20%5DM%20j&background=000000&ring=0096FF&fire=fff&stroke=FF00FF&currStreakLabel=ff00ff&currStreakNum=ff00ff&border=FF00FF&sideLabels=FF00FF&dates=0096FF&sideNums=FF00FF)](https://git.io/streak-stats)
-
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=byblis&theme=high-contrast&line=ff00ff)](https://github.com/byblis/github-readme-activity-graph)
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=byblis&theme=dark&border_radius=1&date_format=%5BY%20%5DM%20j&background=000000&ring=fff&fire=0096FF&stroke=fff&currStreakLabel=ff00ff&currStreakNum=ff00ff&border=FF00FF&sideLabels=FF00FF&dates=fff&sideNums=FF00FF)](https://git.io/streak-stats)
 
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=byblis&theme=high-contrast&hide_title="True"&height=150&line=0096FF&point=f0f)](https://github.com/ashutosh00710/github-readme-activity-graph)
