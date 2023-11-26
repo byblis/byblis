@@ -11,7 +11,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<img src="output_.gif" width="800"> 
+<img src="output.gif" width="800"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=55&section=header&width=300" width="800">
 
 <!--[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=byblis&theme=high-contrast&line=ff00ff&height=300&custom_title=Activity%20)](https://github.com/byblis/github-readme-activity-graph) -->
