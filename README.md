@@ -1,6 +1,6 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0FFF&vCenter=true&width=435&lines=Привет%2C+I'm+Barbara!)](https://git.io/typing-svg) -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0ff&height=55&section=footer&width=300" width="800">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=55&section=footer&width=300" width="800">
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
